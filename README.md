@@ -4,7 +4,7 @@
 
 转载原版内容如下
 
-原地址:[地址]https://github.com/fouber/lottery
+原地址:[地址](https://github.com/fouber/lottery)
 
 # N年前写的年会抽奖程序
 
